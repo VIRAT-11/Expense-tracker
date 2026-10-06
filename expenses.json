@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Tshirt",
+        "amount": 1300.0,
+        "category": "Clothing"
+    },
+    {
+        "name": "misal pav",
+        "amount": 50.0,
+        "category": "food"
+    },
+    {
+        "name": "file",
+        "amount": 33.0,
+        "category": "Stationary"
+    },
+    {
+        "name": "Netflix",
+        "amount": 199.0,
+        "category": "Entertainment"
+    }
+]
